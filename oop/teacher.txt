@@ -1,0 +1,5 @@
+teacher
+teacher
+0 oop
+1 матан
+2 дифури
